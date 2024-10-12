@@ -4,22 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QEt68kVqRpoqwuYgCNQ0-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="239" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="QEt68kVqRpoqwuYgCNQ0-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="368" width="48" height="64" as="geometry" />
+          <mxGeometry x="100" y="270" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="QEt68kVqRpoqwuYgCNQ0-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="432" y="368" width="48" height="64" as="geometry" />
+          <mxGeometry x="100" y="176" width="48" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="QEt68kVqRpoqwuYgCNQ0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QEt68kVqRpoqwuYgCNQ0-6">
+        <mxCell id="QEt68kVqRpoqwuYgCNQ0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="290" as="targetPoint" />
+            <mxPoint x="280" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QEt68kVqRpoqwuYgCNQ0-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="240" height="80" as="geometry" />
+        <mxCell id="QEt68kVqRpoqwuYgCNQ0-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#5A69A4;gradientColor=none;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="176" width="56" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="QEt68kVqRpoqwuYgCNQ0-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#5A69A4;gradientColor=none;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="56" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="QEt68kVqRpoqwuYgCNQ0-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="61.33" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="QEt68kVqRpoqwuYgCNQ0-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="61.33" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
